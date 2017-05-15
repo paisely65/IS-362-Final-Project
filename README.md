@@ -1,7 +1,7 @@
 # IS-362-Final-Project
 An analysis of the worst drivers by state
 Final Project Checklist
-To receive full credit, you’ll need to deliver on all of the items in the checklist below. Please read carefully through this checklist before you make your project proposal. You are (within these checklist constraints) strongly urged to limit scope and make the necessary simplifying assumptions so that you can deliver your work on time!
+To receive full credit, you’ll need to deliver on all of the items in the checklist below. Please read carefully through this list before you make your project proposal. You are (within these list constraints) strongly urged to limit scope and make the necessary simplifying assumptions so that you can deliver your work on time!
 
  Proposal describes your motivation for performing this analysis.
 
